@@ -1,16 +1,15 @@
-html, body {
-    font-family: Arial, serif;
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
+.header {
+	top:20px;
 }
-table {
-    border-collapse: collapse;
+
+.main {
+	padding-top:100px;
 }
-table.border td, table.border th {
-    padding: 5px;
-    border: 1px solid #c0c0c0;
+
+.posLeft {
+	margin-left:-66%;
 }
-table.border th {
-    background: #e0e0e0;
+
+.posCenter {
+	margin-left:33%;
 }
